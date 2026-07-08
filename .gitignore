@@ -1,0 +1,20 @@
+# PowerShell
+*.psd1
+*.psm1
+*.ps1xml
+*.pssc
+*.sr.ps1
+*.dsv
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Git
+.git/
